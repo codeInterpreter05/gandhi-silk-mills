@@ -181,7 +181,7 @@ body {
 .hero-logo {
     width: 120px;
     height: 120px;
-    margin: 0 auto 2rem;
+    margin: 1rem auto 1rem;
     display: block;
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
 }
